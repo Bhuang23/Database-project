@@ -3,6 +3,10 @@
 //
 // myDB project using AVL trees
 //
+//Creates a database-like program that inputs SQL select queries, 
+//and retrieves the requested data using avl trees to find data that is indexed,
+//and otherwise use linear search to find data that is not indexed
+//
 // <<Brian Huang>>
 // U. of Illinois, Chicago
 // CS 251: Fall 2019
